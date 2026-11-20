@@ -1,0 +1,23 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+ /*lab:01
+  Name:saad hafeez 
+  Roll no:08
+  Date:20-11-2026
+  Purpose: creating profile using escape sequence*/
+  
+    cout <<"==================================" << endl;
+    cout << "\tSTUDENT PROFILE" << endl;
+    cout <<"==================================" << endl;
+    cout <<"Name\t\t:Saad Hafeez "<< endl;
+    cout <<"Roll no\t\t:08"<< endl;
+    cout <<"Program\t\t:BSc SoftwareEngineering"<< endl;
+    cout <<"Semester\t:1"<< endl;
+    cout <<"Motto\t\t:\"code.test.repeat\"" << endl;
+    cout <<"Folder\t\t:D:\\students\\lab01" << endl;
+    cout <<"==================================" << endl;
+    return 0;
+}
