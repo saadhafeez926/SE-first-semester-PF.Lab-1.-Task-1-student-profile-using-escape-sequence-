@@ -1,1 +1,1 @@
-# SE-first-semester-PF.Lab-1.-Task-1-student-profile-using-escape-sequence-
+# SE-first-semester-PF.Lab-1 all tasks 
