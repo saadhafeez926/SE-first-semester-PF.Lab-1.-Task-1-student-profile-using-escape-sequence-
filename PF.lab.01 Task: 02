@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{ /* Name:saad hafeez 
+     Roll no:08
+     lab:01
+     Date:11-21-2026
+     Purpose: creating time table using escape sequence*/
+     
+    cout <<"Day\t\tTime\t\tSubject\n";
+    cout <<"___\t\t____\t\t_______\n";
+    cout <<"Mon\t\t9:00-10:30\tCalculas\n";
+    cout <<"Tue\t\t10:00-1:00\tProgramming lab\n";
+    cout <<"Wed\t\t11:00-12:30\tEnglish\n";
+    cout <<"Thu\t\t9:00-10:30\tApplied physics\n";
+    cout <<"Fri\t\t8:30-10:00\tIslamic studies\n";
+    return 0;
+}
