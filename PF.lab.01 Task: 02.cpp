@@ -1,13 +1,13 @@
+ /* Name:saad hafeez 
+     Roll no:08
+     lab:01 task 2
+     Date:11-21-2026
+     Purpose: creating time table using escape sequence*/
 #include<iostream>
 using namespace std;
 
 int main()
-{ /* Name:saad hafeez 
-     Roll no:08
-     lab:01
-     Date:11-21-2026
-     Purpose: creating time table using escape sequence*/
-     
+{   
     cout <<"Day\t\tTime\t\tSubject\n";
     cout <<"___\t\t____\t\t_______\n";
     cout <<"Mon\t\t9:00-10:30\tCalculas\n";
