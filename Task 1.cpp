@@ -1,14 +1,13 @@
+/*lab:01
+  Name:saad hafeez 
+  Roll no:08
+  Date:20-11-2026
+  Purpose: creating profile using escape sequence*/
 #include<iostream>
 using namespace std;
 
 int main()
 {
- /*lab:01
-  Name:saad hafeez 
-  Roll no:08
-  Date:20-11-2026
-  Purpose: creating profile using escape sequence*/
-  
     cout <<"==================================" << endl;
     cout << "\tSTUDENT PROFILE" << endl;
     cout <<"==================================" << endl;
